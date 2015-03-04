@@ -1,0 +1,23 @@
+body {
+
+	background-color: #4F624E;
+}
+
+li.active {
+
+	color: 1c1c1c;
+}
+
+footer  {
+	bottom:0;
+	position:relative;
+	margin:0;
+}
+
+.blurb  {
+	overflow:hidden;
+	background-color:orange;
+	display:inline-block;
+}
+
+hr  {text-align:center !important;}
