@@ -3,6 +3,8 @@ body {
 	background-color: #4F624E;
 }
 
+.row  {width:90%;}
+
 li.active {
 
 	color: 1c1c1c;
@@ -19,6 +21,8 @@ footer  {
 	background-color:#62585e;
 	display:inline-block;
 	border-radius:5px;
+	vertical-align:baseline;
+	margin: auto;
 }
 
-hr  {text-align:center !important;}
+#horz {text-align:center !important; border-style: double; border-color:black; width:66%; margin:0 auto;}

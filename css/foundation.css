@@ -3695,11 +3695,12 @@ h6 {
   margin-bottom: 0.5rem; }
 
 hr {
-  border: solid #dddddd;
+  border: double #dddddd;
   border-width: 1px 0 0;
   clear: both;
   margin: 1.25rem 0 1.1875rem;
-  height: 0; }
+  height: 0;
+  }
 
 /* Helpful Typography Defaults */
 em,
