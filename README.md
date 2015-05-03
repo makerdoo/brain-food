@@ -1,2 +1,2 @@
 # brain-food
-Inspirational educational
+Inspirational, Educational, Revolutionary
